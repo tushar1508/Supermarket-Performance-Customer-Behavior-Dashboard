@@ -8,7 +8,8 @@ This project analyzes transactional data from a three-branch supermarket chain t
 
 ## 📈 Final Dashboard
 
-![Dashboard Preview](Dashboard preview.png) 
+![Dashboard Preview](dashboards/dashboard_view.png) 
+*(Note: Replace 'dashboard_view.png' with the actual name of your screenshot file.)*
 
 ---
 
