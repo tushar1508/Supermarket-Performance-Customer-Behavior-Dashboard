@@ -38,7 +38,7 @@ Through exploratory data analysis, several key insights were uncovered:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://github.com/tushar1508/Supermarket-Performance-Customer-Behavior-Dashboard.git](https://github.com/tushar1508/Supermarket-Performance-Customer-Behavior-Dashboard.git)
     ```
 2.  **Run the analysis notebook:**
     The `notebooks` folder contains the Jupyter Notebook with the full Python analysis.
